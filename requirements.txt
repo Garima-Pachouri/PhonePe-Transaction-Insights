@@ -4,5 +4,5 @@ matplotlib
 seaborn
 plotly
 streamlit
-sqlalchemy
-mysql-connector-python
+sqlite3
+scipy
